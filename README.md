@@ -1,5 +1,6 @@
 [<img width="255" height="258" alt="image" src="https://github.com/user-attachments/assets/5738bd3a-1934-4439-9db5-d1306483c8f6" />](https://eloistree.github.io/r/how_to_play)   
-https://eloistree.github.io/r/how_to_play  
+_https://eloistree.github.io/r/how_to_play_  
+
 ------------
 
 
